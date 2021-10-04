@@ -1,2 +1,2 @@
 This is a personal project.
-All assets and code was written by me.
+All assets and code were created by me.

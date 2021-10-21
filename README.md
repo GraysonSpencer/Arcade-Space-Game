@@ -2,6 +2,8 @@ https://graysonspencer.itch.io/space-game
 This is a personal project.
 All assets and code were created by me.
 
+Code can be found in Assets/Scripts.
+
 Controls:
 Click to shoot. 
 WASD to move around.

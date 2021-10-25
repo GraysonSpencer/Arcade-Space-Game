@@ -1,5 +1,9 @@
-https://graysonspencer.itch.io/space-game
+48 Hour Game Jam: I was 1 out of 2 programmers.
+https://graysonspencer.itch.io/green-reaper
+
+
 This is a personal project.
+https://graysonspencer.itch.io/space-game
 All assets and code were created by me.
 
 Code can be found in Assets/Scripts.

@@ -138,10 +138,14 @@ public class PlayerShip : MonoBehaviour
         lives--;
         this.gameObject.SetActive(false);
 
-        // Respawns the player if lives is greater than 0.
         if (lives > 0)
         {
             SpawnPlayer();
+        }
+        else
+        {   
+            // Requires the game to be started from the main menu scene to function properly.
+            MenuManager.instance.LoadMainMenu();
         }
     }
 }
